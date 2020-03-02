@@ -371,6 +371,11 @@ p {
 }
 #b5{
     background-color: #28282b;
+    height: 100vh;
+}
+.footer{
+    height:20vh;
+    background-color: black;
 }
 
 
