@@ -1,2 +1,0 @@
-# pierrick-perelle
-personnal website
