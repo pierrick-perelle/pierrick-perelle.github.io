@@ -374,6 +374,7 @@ p {
     height: 100vh;
     display:flex;
     flex-direction: row;
+    align-content:flex-end;
 }
 .footer{
     height:20vh;
