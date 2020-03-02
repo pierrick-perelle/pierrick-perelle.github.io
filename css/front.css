@@ -372,6 +372,8 @@ p {
 #b5{
     background-color: #28282b;
     height: 100vh;
+    display:flex;
+    flex-direction: row;
 }
 .footer{
     height:20vh;
