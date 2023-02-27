@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300');
 
 #front {
-    background-image: url("https://picsum.photos/1000/1000");
+    background-image: url("https://picsum.photos/1920/1080");
     height: 100vh;
 
     background-position: center;
@@ -279,7 +279,8 @@ body {
 }
 
 #first_txt {
-    color: black;
+    color: white;
+    text-shadow: 1px 4px 8px #000000, 1px 4px 8px #000000;
     font-weight: bold;
     animation: showup 7s forwards;
 }
